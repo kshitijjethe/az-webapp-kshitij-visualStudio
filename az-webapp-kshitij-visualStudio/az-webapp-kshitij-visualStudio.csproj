@@ -5,6 +5,8 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>az_webapp_kshitij_visualStudio</RootNamespace>
+    <UserSecretsId>cabaf534-5c83-48a0-b910-4157ce281ea8</UserSecretsId>
+    <ApplicationInsightsResourceId>/subscriptions/9c99bf08-a3d7-43ca-952d-7b28e9e3c07b/resourceGroups/az-course-kj-2/providers/microsoft.insights/components/az-webapp-kshitij-visualStudio</ApplicationInsightsResourceId>
   </PropertyGroup>
 
 </Project>
